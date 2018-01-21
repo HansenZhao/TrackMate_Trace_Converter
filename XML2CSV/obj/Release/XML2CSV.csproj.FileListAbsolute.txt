@@ -1,0 +1,8 @@
+E:\VSProject\XML2CSV\XML2CSV\bin\Release\XML2CSV.exe.config
+E:\VSProject\XML2CSV\XML2CSV\bin\Release\XML2CSV.exe
+E:\VSProject\XML2CSV\XML2CSV\bin\Release\XML2CSV.pdb
+E:\VSProject\XML2CSV\XML2CSV\obj\Release\XML2CSV.XML2CSV.resources
+E:\VSProject\XML2CSV\XML2CSV\obj\Release\XML2CSV.Properties.Resources.resources
+E:\VSProject\XML2CSV\XML2CSV\obj\Release\XML2CSV.csproj.GenerateResource.Cache
+E:\VSProject\XML2CSV\XML2CSV\obj\Release\XML2CSV.exe
+E:\VSProject\XML2CSV\XML2CSV\obj\Release\XML2CSV.pdb
